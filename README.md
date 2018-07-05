@@ -13,7 +13,7 @@ Here's some of the stuff that I would like to see on how you implement the page:
     - command to zip files
     - local test reload (browsersync)
 
-**Bonus**
+⭐️ **Bonus**
 - Write your JS with ES6
 - Write your with HTML templates but not limited to Twig, Pug, Nunjucks, or other alternatives
 - Host the HTML in Netlify
@@ -31,7 +31,7 @@ You will have 3 days turn over time to work on this.
 3. Update the files to your git repo
 4. Send a notification to me thru email: hsiang@tenten.co with the repository's link
 
-Some notes to consider as bonus:
+⭐️ Some notes to consider as bonus:
 - Best practice of commit messages
 - Readme.md stating your environment and workflows
 
