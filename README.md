@@ -1,7 +1,7 @@
 # Frontend Developer Test
 
 ## Objective
-Create a landing page that matches the design. Add animation base on your own creativity. The will be score and points to evaluate your ability.
+Create a landing page that matches the design. Add animation base on your own creativity. There will be score and points to evaluate your ability.
 
 Here's some of the stuff that I would like to see on how you implement the page:
 - Semantic Markup
