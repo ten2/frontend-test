@@ -29,7 +29,7 @@ You will have 3 days turn over time to work on this.
 1. Download the files - https://s3.tenten.co/share/tenten-recruit-2017.zip
 2. Create a git repo in Github
 3. Update the files to your git repo
-4. Send a notification to me thru email: hsiang@tenten.co
+4. Send a notification to me thru email: hsiang@tenten.co with the repository's link
 
 Some notes to consider as bonus:
 - Best practice of commit messages
